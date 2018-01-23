@@ -1,0 +1,1 @@
+[null,{"name":"setstatus","permissions":"NONE","restriction":"0","actions":[{"storage":"2","varName":"status","changeType":"0","value":"Ist alleine:C","name":"Control Variable"},{"gameName":"${serverVars(\"status\")}","gameLink":"","name":"Set Bot Game"}]}]
